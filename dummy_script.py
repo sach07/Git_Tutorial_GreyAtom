@@ -7,3 +7,4 @@ fifth_var =4
 ############  Do some computation ###################
 
 third_var = first_var + second_var
+fifth_var = third_var*fourth_var
